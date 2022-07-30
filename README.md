@@ -6,5 +6,11 @@
 
 Primero debemos ejecutar *./script.sh <ip_address>* como se muestra en esta imagen:
 
-![prueba](/images/image1.png)
+![uso](/images/image1.png)
+
+----
+
+En este ejemplo se muestra un ejemplo real de como se puede usar:
+
+![ejemplo](/images/image2.png)
 
