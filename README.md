@@ -14,3 +14,8 @@ En este ejemplo se muestra un ejemplo real de como se puede usar:
 
 ![ejemplo](/images/image2.png)
 
+Vemos que nos detecto 3 puertos abiertos, los cuales son:
+
+* Port 22 (ssh)
+* Port 80 (http)
+* Port 443 (https)
