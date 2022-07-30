@@ -16,6 +16,8 @@ En este ejemplo se muestra un ejemplo real de como se puede usar:
 
 Vemos que nos detecto 3 puertos abiertos, los cuales son:
 
-* Port 22 (ssh)
-* Port 80 (http)
-* Port 443 (https)
+| Puerto | Servicio |
+|--------|----------|
+|   22   |	ssh    	|
+|	80     |	http  	|
+|	443    |  https	  |
