@@ -1,4 +1,10 @@
-# PortScan
-This simple code scans for open ports on an ip address, works with threads for best results.
+# Port Scan
+
+### ¿Como se usa el script?
+
+----
+
+Primero debemos ejecutar *./script.sh <ip_address>* como se muestra en esta imagen:
 
 ![prueba](/images/image1.png)
+
